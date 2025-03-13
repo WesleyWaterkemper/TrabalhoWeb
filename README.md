@@ -92,4 +92,4 @@ Este projeto consiste em uma coleção de 15 páginas web desenvolvidas para pra
 ## 🚀 Como Usar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/WesleyWaterkemper/TrabalhoWeb.git
+   git clone [https://github.com/WesleyWaterkemper/TrabalhoWeb.git]
