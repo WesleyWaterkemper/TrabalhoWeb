@@ -1,0 +1,21 @@
+body {
+    background-color: coral;
+}
+
+h1 {
+    text-align: center;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    padding: 20px;
+    background-color: rgb(255, 149, 110);
+}
+
+.grid-item {
+    text-align: center;
+    padding: 20px;
+    border-radius: 5px;
+}
