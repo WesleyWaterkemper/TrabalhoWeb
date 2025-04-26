@@ -11,6 +11,12 @@ nav {
     text-align: center;
 }
 
+.wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
