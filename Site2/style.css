@@ -1,0 +1,56 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body  {
+
+    background-image: url(background-perfil.jpg);
+}
+
+div{
+    background-color: rgba(252, 253, 255, 0.207);
+    border-radius: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    justify-self: center;
+    height: 400px;
+    width: 400px;
+}
+
+h1{
+    text-align: center;
+
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    opacity: 0.7;
+    font-size:17px;
+}
+h4 {
+    text-align: center;
+    font-size: 17px;
+}
+
+
+
+img {
+    display: block;
+    border-radius: 50%;
+    width: 150px;
+    height: 140px;
+
+  }
+#img_insta{
+    mix-blend-mode:darken;
+    width: 50px;
+    height: 50px;
+    margin-top: 5px;
+}
